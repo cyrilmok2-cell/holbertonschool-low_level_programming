@@ -5,3 +5,4 @@ A C program that prints the last digit of a randomly generated number and states
 A C program that prints the alphabet in lowercase using only the `putchar` function twice.
 A C program that prints the alphabet in lowercase, and then in uppercase, using the `putchar` function only three times.
 A C program that prints the alphabet in lowercase except for 'e' and 'q', using the `putchar` function only twice.
+A C program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
