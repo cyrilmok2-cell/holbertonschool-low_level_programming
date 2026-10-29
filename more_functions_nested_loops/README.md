@@ -5,3 +5,4 @@ This repository contains C programming tasks focused on learning control structu
 * **2-mul.c**: A function that multiplies two integers and returns the result.
 * **3-print_numbers.c**: A function that prints the numbers from `0` to `9`, followed by a new line, using `_putchar`.
 * **4-print_most_numbers.c**: A function that prints the numbers from `0` to `9`, skipping `2` and `4`, followed by a new line.
+* **5-more_numbers.c**: A function that prints 10 times the numbers from `0` to `14`, followed by a new line.
