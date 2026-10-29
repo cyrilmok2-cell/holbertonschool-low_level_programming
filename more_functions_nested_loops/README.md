@@ -7,3 +7,4 @@ This repository contains C programming tasks focused on learning control structu
 * **4-print_most_numbers.c**: A function that prints the numbers from `0` to `9`, skipping `2` and `4`, followed by a new line.
 * **5-more_numbers.c**: A function that prints 10 times the numbers from `0` to `14`, followed by a new line.
 * **6-print_line.c**: A function that draws a straight line in the terminal based on the input length.
+* **7-print_diagonal.c**: A function that draws a diagonal line on the terminal using nested loops.
