@@ -10,3 +10,4 @@ This repository contains C programming tasks focused on learning control structu
 * **7-print_diagonal.c**: A function that draws a diagonal line on the terminal using nested loops.
 * **8-print_square.c**: A function that prints a square on the terminal using the `#` character.
 * **9-fizz_buzz.c**: A complete C program that prints numbers from `1` to `100` following the standard FizzBuzz rules, separating elements with a space.
+* **10-print_triangle.c**: A function that prints a right-aligned triangle of a given size using the `#` character.
