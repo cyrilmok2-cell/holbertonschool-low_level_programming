@@ -11,3 +11,4 @@ This repository contains C programming tasks focused on learning control structu
 * **8-print_square.c**: A function that prints a square on the terminal using the `#` character.
 * **9-fizz_buzz.c**: A complete C program that prints numbers from `1` to `100` following the standard FizzBuzz rules, separating elements with a space.
 * **10-print_triangle.c**: A function that prints a right-aligned triangle of a given size using the `#` character.
+* **100-prime_factor.c**: A complete C program that finds and prints the largest prime factor of the number 612852475143.
