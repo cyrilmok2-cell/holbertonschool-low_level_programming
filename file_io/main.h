@@ -1,3 +1,5 @@
+void close_fd(int fd);
+void copy_content(int fd_from, int fd_to, char *file_from, char *file_to);
 #ifndef MAIN_H
 #define MAIN_H
 
